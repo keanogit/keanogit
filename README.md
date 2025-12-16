@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hallo, ik ben een Full-Stack Developer
 
-<!--
-**keanogit/keanogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ik ben een gepassioneerde **Full-Stack Developer** met een sterke focus op **Frontend development**.  
+Ik bouw graag moderne, gebruiksvriendelijke en responsieve webapplicaties met oog voor performance, onderhoudbaarheid en schaalbaarheid.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- HTML5 & CSS3
+- Tailwind CSS
+- JavaScript
+- Responsive & UI-gerichte ontwikkeling
+
+### Backend
+- PHP
+- Laravel Framework
+
+### Database
+- MySQL
+
+### Tools & Werkwijze
+- Git & GitHub
+- REST API’s
+- MVC Architectuur
+
+## 💡 Waar ik aan werk
+- Het ontwikkelen van webapplicaties met Laravel en moderne frontend technieken
+- Optimaliseren van gebruikerservaring (UX/UI)
+- Schone, herbruikbare en onderhoudbare code schrijven
+
+## 📫 Contact
+- GitHub: *jouw-github-naam*
+- E-mail / Website / LinkedIn: *optioneel*
