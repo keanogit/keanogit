@@ -29,5 +29,4 @@ Ik bouw graag moderne, gebruiksvriendelijke en responsieve webapplicaties met oo
 - Schone, herbruikbare en onderhoudbare code schrijven
 
 ## 📫 Contact
-- GitHub: *jouw-github-naam*
-- E-mail / Website / LinkedIn: *optioneel*
+- GitHub: keanogit
